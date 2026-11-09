@@ -22,10 +22,6 @@ Yangi narsalar o'rganish
 
 <h2 align="center">🛠 Tech Arsenal</h2>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,mongodb,py,pandas,numpy,sklearn,github,vscode,mysql,postgres,ai&perline=14" width="100%" />
-</p>
-
 <div align="center">
 
 <div align="center">
