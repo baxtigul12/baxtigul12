@@ -1,4 +1,4 @@
-\<!-- 💜 BAxtigul Rozibayeva | GitHub Profile -->
+\<!-- 💜Hi I'm BAxtigul Rozibayeva | GitHub Profile -->
 
 \<p align="center">
 &#x20; \<img src="[https://capsule-render.vercel.app/api?type=waving&height=220&color=0:12002F,50:7B2CBF,100\:E0AAFF&text=Salom!%20Men%20Baxtigul&fontSize=32&fontColor=FFFFFF&animation=twinkling&fontAlignY=38](https://capsule-render.vercel.app/api?type=waving\&height=220\&color=0:12002F,50:7B2CBF,100\:E0AAFF\&text=Salom!%20Men%20Baxtigul\&fontSize=32\&fontColor=FFFFFF\&animation=twinkling\&fontAlignY=38)" width="100%"/>
