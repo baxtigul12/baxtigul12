@@ -1,53 +1,84 @@
-# Hi there 👋 I'm Baxtigul Rozibayeva!
+\<!-- 💜 BAxtigul Rozibayeva | GitHub Profile -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
-</p>
+\<p align="center">
+&#x20; \<img src="[https://capsule-render.vercel.app/api?type=waving&height=220&color=0:12002F,50:7B2CBF,100\:E0AAFF&text=Salom!%20Men%20Baxtigul&fontSize=32&fontColor=FFFFFF&animation=twinkling&fontAlignY=38](https://capsule-render.vercel.app/api?type=waving\&height=220\&color=0:12002F,50:7B2CBF,100\:E0AAFF\&text=Salom!%20Men%20Baxtigul\&fontSize=32\&fontColor=FFFFFF\&animation=twinkling\&fontAlignY=38)" width="100%"/>
+\</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:4CAF50,100:000000&text=Hi%2C%20I'm%20Baxtigul_Rozibayeva&fontSize=30&fontColor=39FF14&animation=twinkling&fontAlignY=38" width="100%"/>
-</p>
+\<h2 align="center">
+&#x20; 💜 Baxtigul Rozibayeva
+\</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00F260&center=true&vCenter=true&width=820&lines=Python+Developer;Al-Xorazmiy+Vorislari+IT+Student" />
-</p>
+\<p align="center">
+&#x20; \<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=C77DFF&center=true&vCenter=true&width=700&lines=Python+Developer+%F0%9F%90%8D;Al-Xorazmiy+Vorislari+IT+Student+%F0%9F%8E%93;Doimiy+izlanish+va+yangi+bilimlar+%E2%9C%A8](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&duration=2800\&pause=900\&color=C77DFF\&center=true\&vCenter=true\&width=700\&lines=Python+Developer+%F0%9F%90%8D;Al-Xorazmiy+Vorislari+IT+Student+%F0%9F%8E%93;Doimiy+izlanish+va+yangi+bilimlar+%E2%9C%A8)" />
+\</p>
 
 ---
 
-## 👨‍💻 About Me
+## 👩‍💻 Men haqimda
 
-- 👋 Hi, I'm **Baxtigul Rozibayeva**.
-- 🐍 I'm a **Python Developer**.
-- 🎓 I'm an **Al-Xorazmiy Vorislari IT Student**.
-- 🌱 I enjoy learning new things and improving my programming skills.
-- 💡 I'm interested in technology and software development.
+- 👋 Salom! Men Baxtigulman
+- 🎓 Al-Xorazmiy vorislari IT o‘quvchisiman.
+- 🌱 Doim yangi bilim va ko‘nikmalarni o‘rganishga intilaman.
+- 💡 Dasturlash va zamonaviy texnologiyalarga qiziqaman.
+- 🚀 Maqsadim — bilimlarimni rivojlantirib, yaxshi dasturchi bo‘lish.
 
-## ❤️ My Interests
+## 💜 Mening qiziqishlarim
 
-- Learning new things
-- Programming
-- Exploring new technologies
-- Improving my coding skills
+- Yangi narsalarni o‘rganish 📚
+- Dasturlash va kod yozish 💻
+- Yangi texnologiyalarni o‘rganish 🚀
+- O‘z ustimda ishlash ✨
+
+---
 
 ## 🛠 Tech Arsenal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,github,git,html" />
-</p>
+\<!-- github,git,html -->
 
-## 📊 GitHub Analytics
+\<p align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" width="100%" />
-</p>
+\<!-- Texnologiya ikonkalaringizni shu yerga qo‘shing -->
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=neon&hide_border=true" width="100%" />
-</p>
+\</p>
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
-  <b>✨ Thanks for visiting my GitHub profile! ✨</b>
-</p>
+## 📊 GitHub Analytics
+
+\<p align="center">
+&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=baxtigul12&show_icons=true&theme=midnight-purple&hide_border=true&title_color=C77DFF&icon_color=E0AAFF](https://github-readme-stats.vercel.app/api?username=baxtigul12\&show_icons=true\&theme=midnight-purple\&hide_border=true\&title_color=C77DFF\&icon_color=E0AAFF)" width="49%" />
+&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=baxtigul12&layout=compact&theme=midnight-purple&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=baxtigul12\&layout=compact\&theme=midnight-purple\&hide_border=true)" width="42%" />
+\</p>
+
+\<p align="center">
+&#x20; \<img src="[https://github-readme-streak-stats.herokuapp.com/?user=baxtigul12&theme=midnight-purple&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=baxtigul12\&theme=midnight-purple\&hide_border=true)" width="80%" />
+\</p>
+
+\<p align="center">
+&#x20; \<img src="[https://github-readme-activity-graph.vercel.app/graph?username=baxtigul12&theme=purple&hide_border=true&area=true](https://github-readme-activity-graph.vercel.app/graph?username=baxtigul12\&theme=purple\&hide_border=true\&area=true)" width="100%" />
+\</p>
+
+---
+
+## 🌐 Bog‘lanish
+
+\<p align="center">
+&#x20; \<a href="[https://github.com/baxtigul12](https://github.com/baxtigul12)">
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-Baxtigul12-8A2BE2?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Baxtigul12-8A2BE2?style=for-the-badge\&logo=github\&logoColor=white)"/>
+&#x20; \</a>
+\</p>
+
+---
+
+\<p align="center">
+&#x20; \<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:12002F,50:7B2CBF,100\:E0AAFF&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:12002F,50:7B2CBF,100\:E0AAFF\&height=120\&section=footer)"/>
+\</p>
+
+\<h3 align="center">
+&#x20; 💜 Tashrifingiz uchun rahmat!
+\</h3>
+
+\<p align="center">
+&#x20; ⭐ Har kuni yangi bilim, har kuni yangi imkoniyat!
+\</p>
+
